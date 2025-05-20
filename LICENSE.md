@@ -5,6 +5,10 @@
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
+ As a special exception, permission is hereby granted to use, modify, and redistribute this software as part of any iOS jailbreak or related tooling, provided that it is open-source, freely available online and licensed under either the MIT license or the GNU General Public License.
+
+ This exception applies only under the conditions listed above. All other terms of the GNU General Public License remain in full effect.
+
                             Preamble
 
   The GNU General Public License is a free, copyleft license for
